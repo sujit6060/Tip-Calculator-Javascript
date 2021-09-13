@@ -1,0 +1,25 @@
+#one{
+    padding-bottom: 20px;
+}
+.CalC{
+    width: 350px;
+    margin: 0 auto;
+    border: 2px solid rgb(20, 20, 20);
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(20, 19, 19);
+    font-weight: 900;
+    font-size: large;
+    padding: 25px;
+    background-color: rgba(114, 67, 67, 0.534);
+}
+
+#calculate{
+    background-color: rgb(241, 236, 236);
+}
+
+#totalTip , #each{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: 900;
+    color: white;
+}
